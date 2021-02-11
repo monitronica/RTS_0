@@ -12,14 +12,21 @@ Download the Arduino IDE 1.6.5:
 
 * Open the sketch, go to File > Open > then select the sketch
 * Click the Verify button to save and compile the sketch. This will also check if there are any errors in your program. Click the Upload button to install the program into the arduino uno board.
-## RTS_2_Programming & Testing
+
+![slika](https://user-images.githubusercontent.com/78903881/107700395-b8ca1b00-6cb7-11eb-8b14-5799173de265.png)
+
+## RTS_2_Testing
 -----------------------------------------------------------------------------
-###### 101: Crawling robot 
+## Crawling robot 
+ * After the body of the robot is completed, test your arduino uno by powering it and let the servo motors move. Put the robot on the floor to test crawling.
 -----------------------------------------------------------------------------
-###### 102: Simple Rotate and Tilt Robot limb 
+## Simple Rotate and Tilt Robot limb 
+* Power up the Arduino and rotate the potentiometer to test servos.
 -----------------------------------------------------------------------------
-###### Simple Record and Playback Robot limb 
+## Simple Record and Playback Robot limb 
+* To use this circuit, you simply press the button to begin recording and input the desired information through a potentiometer. The board will repeat your recorded actions endlessly. Press the button again to record new actions. 
 -----------------------------------------------------------------------------
-###### 103: Automated prosthetic limbs 
+## Automated prosthetic limbs 
+* After the limb has completed, test your Arduino set-up by hovering your hand for about 8-13 cm away from the ultrasonic sensor. This should trigger it and let the servo motors move. Now, remove your hand away from the sensor, this should retract the servo motor back to its original angle.
 -----------------------------------------------------------------------------
 
