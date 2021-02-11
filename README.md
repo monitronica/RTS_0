@@ -1,6 +1,9 @@
 # RTS_2
+Download the Arduino IDE 1.6.5: 
+* https://www.arduino.cc/en/Main/OldSoftwareReleases#1.5.x
+* Connect the Arduino board into the computer using the USB type A to B cable. 
 
-## RTS_2_code
+## RTS_2_Programming & Testing
 -----------------------------------------------------------------------------
 ###### 101: Crawling robot 
 -----------------------------------------------------------------------------
