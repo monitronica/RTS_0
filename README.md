@@ -6,6 +6,10 @@
 * Download the Arduino IDE 1.6.5: 
 * https://www.arduino.cc/en/Main/OldSoftwareReleases#1.5.x
 * Open Arduino IDE
+* You need the servo library, go to > Sketch > Include Library > click Manage Libraries...
+* in Library Manager search for Servo Build-In by Michael Margolis, Version 1.0.3 and click Install
+* more info about library:
+* https://www.arduino.cc/en/Reference/Servo&quot;
 * Connect the Arduino board into the computer using the USB type A to B cable. 
 
 ![slika](https://user-images.githubusercontent.com/78903881/107699543-866bee00-6cb6-11eb-9bd0-829d3ff183cd.png)
