@@ -8,7 +8,10 @@ Download the Arduino IDE 1.6.5:
 
 * Once connected, open the Arduino IDE and go to Tools > Board: > then select the Arduino/Genuino Uno.
 
+![slika](https://user-images.githubusercontent.com/78903881/107699922-0b570780-6cb7-11eb-94ec-9573d655d742.png)
 
+* Open the sketch, go to File > Open > then select the sketch
+* Click the Verify button to save and compile the sketch. This will also check if there are any errors in your program. Click the Upload button to install the program into the arduino uno board.
 ## RTS_2_Programming & Testing
 -----------------------------------------------------------------------------
 ###### 101: Crawling robot 
