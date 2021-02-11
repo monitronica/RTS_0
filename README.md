@@ -1,5 +1,9 @@
 # RTS_2
-Download the Arduino IDE 1.6.5: 
+***
+## For circuit building instructions go to wiki
+***
+## Software
+* Download the Arduino IDE 1.6.5: 
 * https://www.arduino.cc/en/Main/OldSoftwareReleases#1.5.x
 * Open Arduino IDE
 * Connect the Arduino board into the computer using the USB type A to B cable. 
