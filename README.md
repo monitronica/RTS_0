@@ -28,13 +28,10 @@
 ## Crawling robot 
  * After the body of the robot is completed, test your arduino uno by powering it and let the servo motors move. Put the robot on the floor to test crawling.
 -----------------------------------------------------------------------------
-## Simple Rotate and Tilt Robot limb 
-* Power up the Arduino and rotate the potentiometer to test servos.
------------------------------------------------------------------------------
 ## Simple Record and Playback Robot limb 
 * To use this circuit, you simply press the button to begin recording and input the desired information through a potentiometer. The board will repeat your recorded actions endlessly. Press the button again to record new actions. 
 -----------------------------------------------------------------------------
-## Automated prosthetic limbs 
+## edit title and description
 * Test your Arduino set-up by hovering your hand for about 8-13 cm away from the ultrasonic sensor. This should trigger it and let the servo motors move. Now, remove your hand away from the sensor, this should retract the servo motor back to its original angle.
 -----------------------------------------------------------------------------
 
