@@ -28,10 +28,10 @@
 ## Crawling robot 
  * After the body of the robot is completed, test your arduino uno by powering it and let the servo motors move. Put the robot on the floor to test crawling.
 -----------------------------------------------------------------------------
-## Simple Record and Playback Robot limb 
+## Playback Robot  
 * To use this circuit, you simply press the button to begin recording and input the desired information through a potentiometer. The board will repeat your recorded actions endlessly. Press the button again to record new actions. 
 -----------------------------------------------------------------------------
-## edit title and description
+## waka_waka
 * Test your Arduino set-up by hovering your hand for about 8-13 cm away from the ultrasonic sensor. This should trigger it and let the servo motors move. Now, remove your hand away from the sensor, this should retract the servo motor back to its original angle.
 -----------------------------------------------------------------------------
 
